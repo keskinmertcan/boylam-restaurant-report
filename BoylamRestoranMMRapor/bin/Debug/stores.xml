@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stores>
+  <Store>
+    <StoreName>Mertcan</StoreName>
+    <StoreNumber>1</StoreNumber>
+    <IpAddress>192.168.1.11</IpAddress>
+    <Port>1433</Port>
+  </Store>
+  <Store>
+    <StoreName>Merkez</StoreName>
+    <StoreNumber>99</StoreNumber>
+    <IpAddress>93.190.8.192</IpAddress>
+    <Port>1433</Port>
+  </Store>
+</Stores>

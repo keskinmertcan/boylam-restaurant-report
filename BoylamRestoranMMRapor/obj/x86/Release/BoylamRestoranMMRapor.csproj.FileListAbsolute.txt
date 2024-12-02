@@ -1,0 +1,14 @@
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\bin\Release\BoylamRestoranMMRapor.exe.config
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\bin\Release\BoylamRestoranMMRapor.exe
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\bin\Release\BoylamRestoranMMRapor.pdb
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.csproj.AssemblyReference.cache
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.FormGiris.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.FormHelp.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.FormNewReport.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.FormStores.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.MainForm.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.Properties.Resources.resources
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.csproj.GenerateResource.cache
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.csproj.CoreCompileInputs.cache
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.exe
+D:\VS\BoylamRestoranMMRapor\BoylamRestoranMMRapor\obj\x86\Release\BoylamRestoranMMRapor.pdb
